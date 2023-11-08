@@ -1,9 +1,10 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "todos": [
+    {
+      "id": "220f1933-21c4-4879-a09c-339b0c33b207",
+      "title": "빨래 하기",
+      "description": "내일까지!!",
+      "isDone": true
+    }
+  ]
 }
